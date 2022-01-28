@@ -19,46 +19,47 @@
 
 <h2 align="center">⚡ Languages ⚡</h2>  
 <p align = "center">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Bash-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/C-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/C++-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/C%23-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/GLSL-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/HLSL-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/IL%20ASM-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Java-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/SQL-141414.svg?logo=Icon">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-141414?style=flat&logo=GNUBash">
+  <img alt="Bash" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c">
+  <img alt="Bash" src="https://img.shields.io/badge/C++-0179c3?style=flat&logo=cplusplus">
+  <img alt="Bash" src="https://img.shields.io/badge/C%23-92458c?style=flat&logo=csharp">
+  <img alt="Bash" src="https://img.shields.io/badge/GLSL-141414?style=flat&logo=OPENGL">
+  <img alt="Bash" src="https://img.shields.io/badge/HLSL-141414?style=flat&logo=OPENGL">
+  <img alt="Bash" src="https://img.shields.io/badge/MSQL-d12b27?style=flat&logo=MicrosoftSQLServer">
+  <img alt="Bash" src="https://img.shields.io/badge/IL%20ASM-ffffff?style=flat&logo=Buddy">
+  <img alt="Bash" src="https://img.shields.io/badge/Java-d61c1f?style=flat&logo=Java">
 </p>
 
 <h2 align="center">⚡ VCS ⚡</h2>  
 <p align = "center">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Git-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Git%20LFS-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Git%20Flow-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/PlasticSCM-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/SVN-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Mercurial-141414.svg?logo=Icon">
+  <img alt="Git" src="https://img.shields.io/badge/Git-141414?style=flat&logo=Git">
+  <img alt="Git" src="https://img.shields.io/badge/Git%20LFS-141414?style=flat&logo=Gitlfs">
+  <img alt="Git" src="https://img.shields.io/badge/Git%20Flow-ffffff?style=flat&logo=KashFlow">
+  <img alt="Git" src="https://img.shields.io/badge/PlasticSCM-f75800?style=flat&logo=ElasticStack">
+  <img alt="Git" src="https://img.shields.io/badge/SVN-141414?style=flat&logo=ElasticStack">
+  <img alt="Git" src="https://img.shields.io/badge/Mercurial-ffffff?style=flat&logo=Mercurial">
 </p>
 
 <h2 align="center">⚡ Platforms ⚡</h2>  
 <p align = "center">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/PC-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/PS4-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/PS5-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/XBox%20One-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Android-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/iOS-141414.svg?logo=Icon">
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-1c9de5?style=flat&logo=Windows">
+  <img alt="Windows" src="https://img.shields.io/badge/PS4-003791?style=flat&logo=playstation4">
+  <img alt="Windows" src="https://img.shields.io/badge/PS5-003791?style=flat&logo=playstation5">
+  <img alt="Windows" src="https://img.shields.io/badge/XBox%20One-107C10?style=flat&logo=xbox">
+  <img alt="Windows" src="https://img.shields.io/badge/Android-ffffff?style=flat&logo=android">
+  <img alt="Windows" src="https://img.shields.io/badge/iOS-303030?style=flat&logo=ios">
 </p>
 
 <h2 align="center">⚡ SDKs ⚡</h2>  
 <p align = "center">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/HTC%20VIVE-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Oculus-141414.svg?logo=Icon">
+  <img alt="Steam" src="https://img.shields.io/badge/Steam-13356a?style=flat&logo=Steam">
+  <img alt="Steam" src="https://img.shields.io/badge/HTC%20VIVE-141414?style=flat&logo=Valve">
+  <img alt="Steam" src="https://img.shields.io/badge/Oculus-1C1E20?style=flat&logo=Oculus">
   <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Leap%20Motion-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Samsung%20GearVR-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Google%20Cardboard-141414.svg?logo=Icon">
+  <img alt="Steam" src="https://img.shields.io/badge/Samsung%20GearVR-1428A0?style=flat&logo=Samsung">
+  <img alt="Steam" src="https://img.shields.io/badge/Google%20Cardboard-FF7143?style=flat&logo=GoogleCardboard">
+  <img alt="Steam" src="https://img.shields.io/badge/FMOD-1C1E20?style=flat&logo=FMOD">
   <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Vuforia-141414.svg?logo=Icon">
-  <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/FMOD-141414.svg?logo=Icon">
 </p>
 
 <h2 align="center">⚡ APIs ⚡</h2>  
