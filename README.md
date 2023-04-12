@@ -1,5 +1,16 @@
 ### Hi there 👋, I'm Gustavo Santos
 
+<br>
+
+<p align = "left">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=gustavopsantos&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+</p>
+
+<p align = "left">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=gustavopsantos&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopsantos&count_private=true&theme=tokyonight">
+</p>
+
 ![](https://vistr.dev/badge?repo=gustavopsantos.gustavopsantos)
 [![](https://img.shields.io/badge/-@codinggustavo-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/codinggustavo)
 [![](https://img.shields.io/badge/-@gustavopsantos-%23181717?style=flat-square&logo=github)](https://github.com/gustavopsantos)
@@ -115,22 +126,4 @@
   <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Trello-141414.svg?logo=Icon">
   <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Jenkins-141414.svg?logo=Icon">
   <img alt="Bash" src="https://custom-icon-badges.herokuapp.com/badge/Audacity-141414.svg?logo=Icon">
-</p>
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<br>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=gustavopsantos&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
-</p>
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=gustavopsantos&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopsantos&count_private=true&theme=tokyonight">
-</p>
-
-<p align = "center">
-<img src="https://activity-graph.herokuapp.com/graph?username=gustavopsantos&theme=react-dark&color=70A4FC&bg_color=1A1B27&hide_border=true" width="100%"/>
 </p>
